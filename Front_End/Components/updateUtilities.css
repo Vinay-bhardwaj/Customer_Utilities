@@ -1,0 +1,32 @@
+.update{
+    background-color: rgb(79, 145, 133);
+  min-height: 100vh;
+}
+
+.box{
+  
+    margin-right: 200px;
+    margin-left: 200px;
+    background-color: rgb(158, 181, 231);
+    /* width: '30%'; */
+    border-color: black;
+  }
+  
+  .head {
+    text-align: center;
+    background-color: rgb(124, 133, 206);
+  }
+
+  .starlabel:after {
+    content:"*";
+    color: red;
+  }
+  
+  .error{
+    color: red;
+    font-size: 12px;
+  }
+  
+  .save{
+    margin-left: 430px;
+  }
